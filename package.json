@@ -1,6 +1,6 @@
 {
   "name": "logger-sequelize",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Gabriel Dos Santos Vargas <gabrieldsvrcontato@gmail.com>",
   "license": "MIT",
   "main": "src/index.js",
