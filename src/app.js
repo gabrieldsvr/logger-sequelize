@@ -1,1 +1,1 @@
-const LogsService = require("services/LogsServices");
+const Logger = require("services/LogsServices");
