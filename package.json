@@ -1,6 +1,6 @@
 {
   "name": "logger-sequelize",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "author": "Gabriel Dos Santos Vargas <gabrieldsvrcontato@gmail.com>",
   "license": "MIT",
   "main": "src/index.js",
@@ -21,6 +21,7 @@
   "description": "",
   "dependencies": {
     "sequelize": "^6.32.1",
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "mysql2": "^3.3.2"
   }
 }
